@@ -1,0 +1,28 @@
+Patient Name: bbt.jpg
+
+Mammography interpertation:
+In this image: calc_SKIN(benign)(be sure that is not pleomorphic)(benign)(benign)(be sure that is not  pleomorphic)(benign)(be sure that is not  pleomorphic)(benign)(be sure tha is not  pleomorphic)(benign)(be sure thatis not  pleomorphic) has been seen.
+Detected a hyperdense area in Upper Outer Quadrant of mammography image.
+No/An asymmetry has been detected.
+No/An increasing size of breast skin has been detected.
+
+In this image: mass_ILL_DEFINED(benign, BIRADS2)(NO WORRIES)(better to be controled) has been seen.
+Detected a hyperdense area in Upper Outer Quadrant of mammography image.
+No/An asymmetry has been detected.
+No/An increasing size of breast skin has been detected.
+
+In this image: mass_ILL_DEFINED(benign, BIRADS2)(NO WORRIES)(better to be controled) has been seen.
+Detected a hyperdense area in Upper Outer Quadrant of mammography image.
+No/An asymmetry has been detected.
+No/An increasing size of breast skin has been detected.
+
+In this image: calc_PLEOMORPHIC(BIRADS4, probeble for malignancy)(better to check more images and more consultings)(BIRADS4, probeble for malignancy)(better to check more images and more consultings)(BIRADS4, probeble foe malignancy)(better to check more images and more consultings) has been seen.
+Detected a hyperdense area in Upper Outer Quadrant of mammography image.
+No/An asymmetry has been detected.
+No/An increasing size of breast skin has been detected.
+
+In this image: mass_CIRCUMSCRIBED(benign, BIRADS2) has been seen.
+Detected a hyperdense area in Upper Outer Quadrant of mammography image.
+No/An asymmetry has been detected.
+No/An increasing size of breast skin has been detected.
+
